@@ -2,7 +2,7 @@
 
 ## Flow
 
-User can signup and login to enter the dashboard, which gives a list of employees(prepopulated). Now user can create new employee, edit employee data, add their achievements and so on. After logout user will be redirected to signin page again. If user data and auth token is stored in local storage then user will be redirected to dashboard.
+User can signup and login to enter the dashboard, which gives a list of employees(prepopulated). Now user can create new employee, edit employee data, add their achievements and so on. Employees can be filtered based on department and achievement. After logout user will be redirected to signin page again. If user data and auth token is stored in local storage then user will be redirected to dashboard.
 
 ## Setup
 
