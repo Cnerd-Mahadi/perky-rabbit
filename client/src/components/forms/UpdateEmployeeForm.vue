@@ -66,8 +66,7 @@ const addAchievement = (value: Achievement, index: number) => {
 }
 
 const deleteAchievement = (index: number) => {
-  console.log('delete')
-  // formData.achievements.splice(index, 1)
+  formData.achievements.splice(index, 1)
 }
 
 const submitForm = async () => {
